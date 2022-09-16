@@ -4,7 +4,7 @@ body{
 }
 #prof
 {
-    background-color: blueviolet;
+    background-color:GREY;
     padding: 8;
     border: 2px greenyellow;
     height: 180;
@@ -12,7 +12,7 @@ body{
 }
 #des
 {
-    color: whitesmoke;
+    color: GREEN;
 }
 #profile
 {
@@ -173,4 +173,4 @@ input[type=text], select, textarea {
    margin-right: 30%;
     float: unset;
     margin-left: 30%;
-  }
+  
